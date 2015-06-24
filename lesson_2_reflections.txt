@@ -1,0 +1,3 @@
+ What happens when you initialize a repository? Why do you need to do it?
+
+ git init is used to create a new repository locally, and is needed to setup a project with git that is currently not under git.
