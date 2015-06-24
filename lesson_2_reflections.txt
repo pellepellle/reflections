@@ -5,3 +5,12 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is where you move files to work on whereas the working directory can be thought of as the production file. The repo tracks meta data around the changes and commits. These differences allow you to safely make and track changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can work on multiple files in the working directory but don't have to push all of those to the staging area at once. You can use the staging area to push only the changes you want to commit.
+
+
+
+
+
