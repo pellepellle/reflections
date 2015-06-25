@@ -14,5 +14,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 When you want to create multiple versions of the project while keeping the original intact. It allows you to branch off of the real version.
 
+How do the diagrams help you visualize the branch structure?
+
+They allow you to see the path of different branches and the commits that make them up.
 
 
