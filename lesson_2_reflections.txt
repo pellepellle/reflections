@@ -10,7 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You can work on multiple files in the working directory but don't have to push all of those to the staging area at once. You can use the staging area to push only the changes you want to commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+When you want to create multiple versions of the project while keeping the original intact. It allows you to branch off of the real version.
 
 
 
