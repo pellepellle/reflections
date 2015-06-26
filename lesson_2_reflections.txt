@@ -21,3 +21,9 @@ They allow you to see the path of different branches and the commits that make t
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It merges all commits made for each branch into one and is diagrammed to show all commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pro: done for you; con: you don't get to manually dictate & vice versa.
+
+
